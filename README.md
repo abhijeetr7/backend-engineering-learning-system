@@ -17,15 +17,14 @@ backend-engineering-learning-system
 
 
 Each folder has a clear purpose.
-|---------------------------------------------------|
 | Folder         | Purpose                          |
-|----------------|----------------------------------|
+| -------------- | -------------------------------- |
 | handbook       | backend engineering book         |
 | roadmap        | 12-month learning path           |
 | projects       | real systems to build            |
 | interview-prep | system design + interview topics |
 | resources      | books + articles                 |
-|---------------------------------------------------|
+
 
 # Backend Engineering Learning System - README.md
 
