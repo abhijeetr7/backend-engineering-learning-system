@@ -51,3 +51,15 @@ Learning Path
 1. Study the handbook
 2. Build projects in the roadmap
 3. Practice system design interviews
+
+
+# How This Repository Works
+
+Your study workflow:
+
+1 Study handbook
+2 Follow monthly roadmap
+3 Build projects
+4 Practice interview questions
+
+This creates continuous improvement.
