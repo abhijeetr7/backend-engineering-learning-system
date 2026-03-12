@@ -3,8 +3,6 @@ This is a complete GitHub repository blueprint that combines everything you aske
 
 backend-engineering-learning-system
 
-│
-
 ├── handbook
 
 ├── roadmap
