@@ -68,9 +68,9 @@ Learning Path
 
 Your study workflow:
 
-1 Study handbook
-2 Follow monthly roadmap
-3 Build projects
-4 Practice interview questions
+1. Study handbook
+2. Follow monthly roadmap
+3. Build projects
+4. Practice interview questions
 
 This creates continuous improvement.
