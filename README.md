@@ -7,23 +7,14 @@ backend-engineering-learning-system
 
 ├── handbook
 
-│
-
 ├── roadmap
-
-│
 
 ├── projects
 
-│
-
 ├── interview-prep
-
-│
 
 ├── resources
 
-│
 └── README.md
 
 
