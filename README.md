@@ -74,3 +74,35 @@ Your study workflow:
 4. Practice interview questions
 
 This creates continuous improvement.
+
+# Daily Learning Routine
+
+Daily:
+
+1. 1 hour reading
+2. 1 hour coding
+3. 30 minutes system design
+
+Weekly:
+
+build one backend feature.
+
+# What This Learning System Achieves
+
+If you complete everything in this repo, you will understand:
+
+1. backend architecture
+2. distributed systems
+3. cloud infrastructure
+4. system design
+5. large scale backend engineering
+
+This is exactly the skillset expected from senior backend engineers.
+
+
+
+
+
+
+
+
